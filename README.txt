@@ -1,7 +1,7 @@
 Topsis Value Calculator
 
 ## Installation
-$ pip install Topsis-Garvit-101903778==0.1
+$ pip install Topsis-Samarth_102083050==0.1
 
 The package consists of two methods :
 1). topsis_samarth(temp_dataset, dataset, number of columns, weights, impact) : It calculates the topsis value and gives rank. The data is saved as a csv file with name==result_filename.
